@@ -1,7 +1,9 @@
 <h1 align="center">Hi, I'm Cristian Soria! :stars:</h1>
 
+<div align="center">
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://linkedin.com/in/crissoria/)](https://linkedin.com/in/crissoria/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:crissoria07@gmail.com)](mailto:crissoria07@gmail.com)
+</div>
 
 ## About Me :wave:
 
