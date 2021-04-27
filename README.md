@@ -11,8 +11,6 @@
 
 Hey there! :smile: My name is Cristian. I'm a web developer from Salta, Argentina. I just finished a Full Stack Developer Program at [Henry](https://www.soyhenry.com/), and I'm looking for projects to contribute to and people to collaborate with!
 
-I'm always looking to work with people that are hopeless idealists like me, as well as who are interested in creating and working on cool, interesting, and meaningful projects! Shoot me [an e-mail](mailto:mail@brennanbrown.ca) if that sounds like your cup of tea. :coffee:
-
 ## Technologies I'm Learning :books:
 
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/><img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/><img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/><img alt="Webpack" src="https://img.shields.io/badge/webpack-%238DD6F9.svg?&style=for-the-badge&logo=webpack&logoColor=black" /><img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
@@ -26,3 +24,9 @@ I'm always looking to work with people that are hopeless idealists like me, as w
 <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/><img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?&style=for-the-badge"/><img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql"/><img alt="Apollo-GraphQL" src="https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql"/><img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
 
 <hr/>
+
+## My proyects
+
+<img src="./assets/Landingcountries.png">
+<img src="./assets/LandingPage.png">
+<img src="./assets/RecipeSearch.png">
