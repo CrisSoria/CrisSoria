@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cristian</h1>
+<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 <h3 align="center">A passionate developer from Argentina</h3>
 
 <h3 align="left">Connect with me:</h3>
