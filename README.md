@@ -28,5 +28,21 @@ Hey there! :smile: My name is Cristian. I'm a web developer from Salta, Argentin
 ## My proyects
 
 <img src="./assets/Landingcountries.png">
-<img src="./assets/LandingPage.png">
-<img src="./assets/RecipeSearch.png">
+
+## Objetivos del Proyecto
+
+- Construir una App utlizando React, Redux, Node y Sequelize.
+- Afirmar y conectar conceptos.
+- Aprender mejores prácticas.
+- Aprender y practicar el workflow de GIT.
+- Usar y practicar testing.
+
+La idea general es crear una aplicación en la cual se puedan ver distintas recetas de comida junto con información relevante de las mismas utilizando la api externa [spoonacular](https://spoonacular.com/food-api) y a partir de ella poder, entre otras cosas:
+
+- Buscar recetas
+- Filtrarlos / Ordenarlos
+- Crear nuevas recetas propias
+
+  <img src="./assets/LandingPage.png" width="49%"  >
+
+  <img src="./assets/RecipeSearch.png" width="49%" >
