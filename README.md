@@ -1,3 +1,5 @@
+<a href="https://crissoria.netlify.app" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-https://crissoria.netlify.app-blue?style=flat&logo=google-chrome"></a>
+
 <h1 align="center">Hi, I'm Cristian Soria! :stars:</h1>
 
 <div align="center">
@@ -27,22 +29,38 @@ Hey there! :smile: My name is Cristian. I'm a web developer from Salta, Argentin
 
 ## My proyects
 
-<img src="./assets/Landingcountries.png">
+<br/>
+
+### [Live Site](https://compu-henry.netlify.app)
+
+# E-commerce Compu Henry 
+
+
+Página web para venta de insumos informáticos con todas las funcionalidades de un e-commerce.
+Trabajo en equipo de 7 personas utilizando metodologías ágiles
+(SCRUM). Un mes de duración total, con springs semanales
+presentados a un Product Owner.
+
+<img align="right" alt="img" src="https://i.ibb.co/rwk20kr/ecommerce.png" width="50%" height="auto" />
 
 ## Objetivos del Proyecto
 
-- Construir una App utlizando React, Redux, Node y Sequelize.
-- Afirmar y conectar conceptos.
+- Construir una App JavaScript desde cero.
+- Afirmar y conectar los conceptos aprendidos en la carrera.
 - Aprender mejores prácticas.
 - Aprender y practicar el workflow de GIT.
+- Utilizar Metodologías Ágiles.
+- Trabajar en equipo.
 - Usar y practicar testing.
 
-La idea general es crear una aplicación en la cual se puedan ver distintas recetas de comida junto con información relevante de las mismas utilizando la api externa [spoonacular](https://spoonacular.com/food-api) y a partir de ella poder, entre otras cosas:
+<br/>
+<hr/>
 
-- Buscar recetas
-- Filtrarlos / Ordenarlos
-- Crear nuevas recetas propias
+### [Live Site](https://social-media-mern-app.netlify.app/)
 
-  <img src="./assets/LandingPage.png" width="49%"  >
+# Memories Social Media MERN app
 
-  <img src="./assets/RecipeSearch.png" width="49%" >
+<img src="https://i.ibb.co/6NcCP1g/memories-Like-Edit-Delete.png" align="right" alt="img" width="50%" height="auto" border="0">
+
+Red social que permite a los usuarios compartir posteos de actividades/recuerdos. <br/>
+Base de datos no relacional en MongoDB, posibilidad de login con google, detalles de post con posts recomendados, busqueda por tag o título, contador de likes, ...
