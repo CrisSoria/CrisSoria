@@ -1,6 +1,6 @@
 <a href="https://crissoria.netlify.app" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-https://crissoria.netlify.app-blue?style=flat&logo=google-chrome"></a>
 
-<h1 align="center">Hi, I'm Cristian Soria!<img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/pug_dance.gif" width="60px" /></h1>
+<h1 align="center">Hi, I'm Cristian Soria!<img src="./assets/salt.gif" width="60px" /></h1>
 
 <div align="center">
   
@@ -13,7 +13,7 @@
 
 Hey there! :smile: My name is Cristian. I'm a web developer from Salta, Argentina. I just finished a Full Stack Developer Program at [Henry](https://www.soyhenry.com/), and I'm looking for projects to contribute to and people to collaborate with!
 
-## Technologies I'm Learning :books: <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/Confused_Dog.gif" height="50px" />
+## Technologies I'm Learning :books: <img src="./assets/Confused_Dog.gif" height="50px" />
 
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/><img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/><img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/><img alt="Webpack" src="https://img.shields.io/badge/webpack-%238DD6F9.svg?&style=for-the-badge&logo=webpack&logoColor=black" /><img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 
@@ -27,14 +27,13 @@ Hey there! :smile: My name is Cristian. I'm a web developer from Salta, Argentin
 
 <hr/>
 
-## My proyects <img src="https://github.com/anathayna/anathayna/blob/master/assets/salt.gif?raw=1" width="55vw"/></em>
+## My proyects :tada: <img src="./assets/pug_dance.gif" width="55vw"/></em>
 
 <br/>
 
 ### [Live Site](https://compu-henry.netlify.app)
 
-# E-commerce Compu Henry 
-
+# E-commerce Compu Henry
 
 Página web para venta de insumos informáticos con todas las funcionalidades de un e-commerce.
 Trabajo en equipo de 7 personas utilizando metodologías ágiles
