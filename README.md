@@ -1,4 +1,4 @@
-<a href="https://crissoria.netlify.app" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-https://crissoria.netlify.app-blue?style=flat&logo=google-chrome"></a>
+
 
 <h1 align="center">Hi, I'm Cristian Soria!<img src="./assets/salt.gif" width="60px" /></h1>
 
