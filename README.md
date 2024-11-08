@@ -1,6 +1,6 @@
 <a href="https://crissoria.netlify.app" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-https://crissoria.netlify.app-blue?style=flat&logo=google-chrome"></a>
 
-<h1 align="center">Hi, I'm Cristian Soria!<img src="./assets/salt.gif" width="60px" /></h1>
+<h1 align="center"> <em> Hi, I'm Cristian Soria!</em> <img src="./assets/salt.gif" width="60px" /></h1>
 
 <div align="center">
   
@@ -9,7 +9,7 @@
 
 </div>
 
-## About Me :wave:
+## About Me :wave: <img src="./assets/pug_dance.gif" width="55vw"/>
 
 Hi everyone! 😄 My name is Cristian, and I'm a web developer specializing in Salesforce. I enjoy creating applications that solve real-world problems or automate repetitive tasks to meet people's needs. Always ready to contribute to projects and collaborate with others to continue learning and improving constantly. Feel free to reach out!
 
@@ -30,7 +30,7 @@ Hi everyone! 😄 My name is Cristian, and I'm a web developer specializing in S
 
 <hr/>
 
-## My proyects :tada: <img src="./assets/pug_dance.gif" width="55vw"/></em>
+## My proyects :tada: <img src="./assets/PusheenCompute.gif" width="100px"/>
 
 <br/>
 
