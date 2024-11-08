@@ -13,6 +13,9 @@
 
 Hi everyone! 😄 My name is Cristian, and I'm a web developer specializing in Salesforce. I enjoy creating applications that solve real-world problems or automate repetitive tasks to meet people's needs. Always ready to contribute to projects and collaborate with others to continue learning and improving constantly. Feel free to reach out!
 
+## My certifications 🌟 <img src="./assets/party_parrot.gif" height="50px" />
+<img src="./assets/AI-Associate.png" height="120px" /> <img src="./assets/AI-Specialist.png" height="120px" />
+
 ## Technologies I'm Learning :books: <img src="./assets/Confused_Dog.gif" height="50px" />
 
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white)<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)<img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
