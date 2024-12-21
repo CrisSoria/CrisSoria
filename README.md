@@ -30,11 +30,30 @@ Hi everyone! 😄 My name is Cristian, and I'm a web developer specializing in S
 
 <hr/>
 
-## My proyects :tada: <img src="./assets/PusheenCompute.gif" width="100px"/>
-
+## My projects :tada: <img src="./assets/PusheenCompute.gif" width="100px"/>
 <br/>
 
-### [Live Site](https://compu-henry.netlify.app)
+### [Live Site](https://labsxd-23e-dev-ed.develop.my.site.com/SearchRecipes/)
+
+# Serch Recipes (LWC integration)
+
+Este proyecto demuestra una aplicación de Salesforce Lightning Web Components (LWC) integrada con la API de The Meal DB para buscar y mostrar recetas de comida. La aplicación aprovecha capacidades clave de Salesforce y las mejores prácticas de desarrollo frontend.
+
+<img align="right" alt="img" src="https://i.ibb.co/GF4B4sP/Recipe-Search.png" width="50%" height="auto" />
+
+## Objetivos del Proyecto
+En este proyecto se aplican las siguientes habilidades de desarrollo en Salesforce:
+
+- Comunicación entre componentes LWC.
+- Realización de llamadas a APIs desde LWC.
+- Estilizado de componentes usando SLDS.
+- Construcción de componentes responsivos para móviles.
+- Exposición de componentes LWC en Digital Experience.
+
+<br/>
+<hr/>
+
+<br/>
 
 # E-commerce Compu Henry
 
@@ -57,8 +76,6 @@ presentados a un Product Owner.
 
 <br/>
 <hr/>
-
-### [Live Site](https://social-media-mern-app.netlify.app/)
 
 # Memories Social Media MERN app
 
