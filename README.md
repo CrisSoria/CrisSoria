@@ -1,6 +1,6 @@
 <a href="https://crissoria.netlify.app" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-https://crissoria.netlify.app-blue?style=flat&logo=google-chrome"></a>
 
-<h1 align="center"> <em> Hi, I'm Cristian Soria!</em> <img src="./assets/salt.gif" width="60px" /></h1>
+<h1 align="center"><em>Hi, I'm Cristian Soria!</em> <img src="./assets/salt.gif" width="60px" /></h1>
 
 <div align="center">
   
@@ -9,100 +9,102 @@
 
 </div>
 
-## About Me :wave: <img src="./assets/pug_dance.gif" width="55vw"/>
+## About Me <img src="./assets/pug_dance.gif" width="55px" align="center" />
 
-Hi everyone! 😄 My name is Cristian, and I'm a web developer specializing in Salesforce. I enjoy creating applications that solve real-world problems or automate repetitive tasks to meet people's needs. Always ready to contribute to projects and collaborate with others to continue learning and improving constantly. Feel free to reach out!
+Hello! 👋 I'm Cristian, a web developer specialized in Salesforce development. I'm passionate about creating applications that solve real-world problems and automating repetitive tasks to enhance user experience. I thrive on collaboration and am always eager to contribute to innovative projects while continuously expanding my skill set. Let's connect!
 
-## My certifications 🌟 <img src="./assets/party_parrot.gif" height="50px" />
+## Certifications 🌟 <img src="./assets/party_parrot.gif" height="50px" align="center" />
 <img src="./assets/AI-Associate.png" height="120px" /> <img src="./assets/AI-Specialist.png" height="120px" />
 
-## Technologies I'm Learning :books: <img src="./assets/Confused_Dog.gif" height="50px" />
+## Tech Stack <img src="./assets/Confused_Dog.gif" height="50px" align="center" />
 
-![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white)<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)<img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
 
-#### Front-end:
+### Front-end:
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)<img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/><img alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white"/><img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/><img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+### Back-end:
+![NodeJS](https://img.shields.io/badge/node.js-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?&style=for-the-badge)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-#### Back-end:
 
-<img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/><img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?&style=for-the-badge"/><img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql"/><img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+## Featured Projects <img src="./assets/PusheenCompute.gif" width="100px" align="center" />
 
-<hr/>
+### Movie Search (LWC Integration)
+**[Live Demo](http://labsxd-23e-dev-ed.develop.my.site.com/MovieSearch)**
 
-## My projects :tada: <img src="./assets/PusheenCompute.gif" width="100px"/>
+<img align="right" alt="Movie Search Screenshot" src="https://i.ibb.co/L1VqhP0/movie-Search.png" width="40%" />
 
-<br/>
+A movie search application built with Salesforce Lightning Web Components (LWC) that integrates with the OMDB API. Users can search and explore detailed information about movies, series, and episodes through an intuitive interface.
 
-### [Live Site](http://labsxd-23e-dev-ed.develop.my.site.com/MovieSearch)
+**Key Features:**
+- HTTP calls using Fetch API
+- Parent-child communication via @api decorators
+- Child-parent communication using custom events
+- Cross-component communication with Message Channel
+- LWR site component implementation
 
-# Serch Recipes (LWC integration)
+<br clear="right"/>
 
-Este proyecto es una aplicación web de búsqueda de películas desarrollada con Lightning Web Components (LWC) de Salesforce. La aplicación permite a los usuarios buscar películas utilizando la API de OMDB (Open Movie Database). A través de una interfaz intuitiva, los usuarios pueden explorar información detallada sobre películas, series y episodios.
+---
 
-<img align="right" alt="img" src="https://i.ibb.co/L1VqhP0/movie-Search.png" width="50%" height="auto" />
+### Recipe Search (LWC Integration)
+**[Live Demo](https://labsxd-23e-dev-ed.develop.my.site.com/SearchRecipes/)**
 
-## Objetivos del Proyecto
-En este proyecto se aplican las siguientes habilidades de desarrollo en Salesforce:
+<img align="right" alt="Recipe Search Screenshot" src="https://i.ibb.co/GF4B4sP/Recipe-Search.png" width="40%" />
 
-- Uso de Fetch API para llamadas HTTP
-- Comunicación padre-hijo mediante @api decorators
-- Comunicación hijo-padre usando eventos personalizados
-- Comunicación entre componentes independientes con Message Channel
-- Uso de componentes en sitios LWR
+A Salesforce LWC application integrated with The Meal DB API for searching and displaying food recipes. This project showcases key Salesforce capabilities and frontend development best practices.
 
-<br/>
-<hr/>
+**Key Features:**
+- Inter-component LWC communication
+- API integration
+- SLDS styling implementation
+- Mobile-responsive design
+- Digital Experience component exposure
 
-<br/>
+<br clear="right"/>
 
-### [Live Site](https://labsxd-23e-dev-ed.develop.my.site.com/SearchRecipes/)
+---
 
-# Serch Recipes (LWC integration)
+### Compu Henry E-commerce
 
-Este proyecto demuestra una aplicación de Salesforce Lightning Web Components (LWC) integrada con la API de The Meal DB para buscar y mostrar recetas de comida. La aplicación aprovecha capacidades clave de Salesforce y las mejores prácticas de desarrollo frontend.
+<img align="right" alt="E-commerce Screenshot" src="https://i.ibb.co/rwk20kr/ecommerce.png" width="40%" />
 
-<img align="right" alt="img" src="https://i.ibb.co/GF4B4sP/Recipe-Search.png" width="50%" height="auto" />
+A full-featured e-commerce platform for computer hardware and accessories. Developed as part of a 7-person team using Agile methodologies (SCRUM) over a one-month period with weekly sprints and Product Owner reviews.
 
-## Objetivos del Proyecto
-En este proyecto se aplican las siguientes habilidades de desarrollo en Salesforce:
+**Project Highlights:**
+- Built from scratch using JavaScript
+- Implementation of core e-commerce functionalities
+- Git workflow and best practices
+- Agile methodology implementation
+- Comprehensive testing
+- Team collaboration
 
-- Comunicación entre componentes LWC.
-- Realización de llamadas a APIs desde LWC.
-- Estilizado de componentes usando SLDS.
-- Construcción de componentes responsivos para móviles.
-- Exposición de componentes LWC en Digital Experience.
+<br clear="right"/>
 
-<br/>
-<hr/>
+---
 
-<br/>
+### Memories Social Media (MERN Stack)
 
-# E-commerce Compu Henry
+<img align="right" alt="Memories App Screenshot" src="https://i.ibb.co/6NcCP1g/memories-Like-Edit-Delete.png" width="40%" />
 
-Página web para venta de insumos informáticos con todas las funcionalidades de un e-commerce.
-Trabajo en equipo de 7 personas utilizando metodologías ágiles
-(SCRUM). Un mes de duración total, con springs semanales
-presentados a un Product Owner.
+A social media platform enabling users to share and interact with posts about activities and memories.
 
-<img align="right" alt="img" src="https://i.ibb.co/rwk20kr/ecommerce.png" width="50%" height="auto" />
+**Key Features:**
+- MongoDB non-relational database
+- Google OAuth integration
+- Post details with recommended content
+- Tag and title search functionality
+- Like counter system
 
-## Objetivos del Proyecto
-
-- Construir una App JavaScript desde cero.
-- Afirmar y conectar los conceptos aprendidos en la carrera.
-- Aprender mejores prácticas.
-- Aprender y practicar el workflow de GIT.
-- Utilizar Metodologías Ágiles.
-- Trabajar en equipo.
-- Usar y practicar testing.
-
-<br/>
-<hr/>
-
-# Memories Social Media MERN app
-
-<img src="https://i.ibb.co/6NcCP1g/memories-Like-Edit-Delete.png" align="right" alt="img" width="50%" height="auto" border="0">
-
-Red social que permite a los usuarios compartir posteos de actividades/recuerdos. <br/>
-Base de datos no relacional en MongoDB, posibilidad de login con google, detalles de post con posts recomendados, busqueda por tag o título, contador de likes, ...
+<br clear="right"/>
