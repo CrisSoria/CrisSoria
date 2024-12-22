@@ -31,6 +31,29 @@ Hi everyone! 😄 My name is Cristian, and I'm a web developer specializing in S
 <hr/>
 
 ## My projects :tada: <img src="./assets/PusheenCompute.gif" width="100px"/>
+
+<br/>
+
+### [Live Site](http://labsxd-23e-dev-ed.develop.my.site.com/MovieSearch)
+
+# Serch Recipes (LWC integration)
+
+Este proyecto es una aplicación web de búsqueda de películas desarrollada con Lightning Web Components (LWC) de Salesforce. La aplicación permite a los usuarios buscar películas utilizando la API de OMDB (Open Movie Database). A través de una interfaz intuitiva, los usuarios pueden explorar información detallada sobre películas, series y episodios.
+
+<img align="right" alt="img" src="https://i.ibb.co/L1VqhP0/movie-Search.png" width="50%" height="auto" />
+
+## Objetivos del Proyecto
+En este proyecto se aplican las siguientes habilidades de desarrollo en Salesforce:
+
+- Uso de Fetch API para llamadas HTTP
+- Comunicación padre-hijo mediante @api decorators
+- Comunicación hijo-padre usando eventos personalizados
+- Comunicación entre componentes independientes con Message Channel
+- Uso de componentes en sitios LWR
+
+<br/>
+<hr/>
+
 <br/>
 
 ### [Live Site](https://labsxd-23e-dev-ed.develop.my.site.com/SearchRecipes/)
